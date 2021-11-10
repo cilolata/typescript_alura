@@ -1,4 +1,4 @@
 # typescript_alura
 
-#TypeScript parte 1: Evoluindo seu JavaScript
-#Alura
+TypeScript parte 1: Evoluindo seu JavaScript
+Alura
